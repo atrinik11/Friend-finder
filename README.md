@@ -46,7 +46,10 @@ The logic behind:
 
       Before running the app, the local server has to be run in the terminal with the command "node server.js" and local server has to be run in the browser.
 
-  Deploy:
+ Links:
      The application is deployed in Heroku.
      Link to Heroku:
      https://serene-caverns-84461.herokuapp.com/
+
+     Link to my Portfolio:
+     https://atrinik11.github.io/Bootstrap-Portfolio/
